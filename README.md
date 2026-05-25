@@ -23,3 +23,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojnm24&show_icons=true&locale=en" alt="manojnm24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojnm24&" alt="manojnm24" /></p>
+
+# Hi there, I'm a Developer! 👋
+
+Welcome to my GitHub profile. Below is a dynamic animation generated from my contribution history.
+
+## 🐍 My GitHub Contribution Snake
+
+::content
+```text
+![GitHub Strike Snake Animation](./github-contribution-grid-snake.svg)
